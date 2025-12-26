@@ -20,7 +20,7 @@ public class TaskController {
     public String getTasks(Model model){
         List<Task> tasks = taskServices.getAllTasks();
         model.addAttribute("tasks", tasks);
-        return "tasks";
+        return "index";
     }
 
     @PostMapping
