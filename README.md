@@ -25,18 +25,8 @@ HTML
 Maven (Build Tool)
 
 📂 Project Structure
-todo-application/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/       # Java source files
-│   │   └── resources/  # HTML / static resources
-│   └── test/
-│       └── java/       # Test files (if any)
-│
-├── .mvn/               # Maven wrapper files
-├── pom.xml             # Maven configuration
-└── README.md           # Project documentation
+
+<img width="425" height="307" alt="images" src="https://github.com/user-attachments/assets/7693ad4c-e137-4316-a9c3-49a197266762" />
 
 ▶️ How to Run the Project
 Prerequisites
@@ -79,7 +69,7 @@ http://localhost:8080
 
 📸 Screenshots
 
-<img width="1873" height="882" alt="Screenshot 2025-12-30 133544" src="https://github.com/user-attachments/assets/1533ab9d-ffa0-40f3-8fe8-143eb93fc62d" />
+<img width="1873" height="882" alt="Screenshot 2025-12-30 133544" src="https://github.com/user-attachments/assets/1533ab9d-ffa0-40f3-8fe8-143eb93fc62d"/>
 
 📌 Future Enhancements
 
