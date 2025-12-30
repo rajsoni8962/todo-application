@@ -29,7 +29,7 @@ todo-application/
 │
 ├── src/
 │   ├── main/
-│   │   ├── java/        # Java source files
+│   │   ├── java/       # Java source files
 │   │   └── resources/  # HTML / static resources
 │   └── test/
 │       └── java/       # Test files (if any)
@@ -77,9 +77,9 @@ Open in browser (if web-based)
 
 http://localhost:8080
 
-📸 Screenshots (Optional)
+📸 Screenshots
 
-Add screenshots of your application UI here if available.
+<img width="1873" height="882" alt="Screenshot 2025-12-30 133544" src="https://github.com/user-attachments/assets/1533ab9d-ffa0-40f3-8fe8-143eb93fc62d" />
 
 📌 Future Enhancements
 
@@ -91,7 +91,7 @@ Add screenshots of your application UI here if available.
 
 🔐 User authentication
 
-🎨 Improved UI design
+🎨 Basic UI design
 
 🤝 Contributing
 
